@@ -1,8 +1,8 @@
 CREATE DATABASE test_01;
 
-CREATE DATABASE mysql_shiyan;
+CREATE DATABASE mysql_labex;
 
-use mysql_shiyan;
+use mysql_labex;
 
 CREATE TABLE department
 (
